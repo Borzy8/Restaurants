@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Restaraunts/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language = "fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body/>
+  </file>
+  <file original="Restaraunts/Base.lproj/Main.storyboard" source-language="en" target-language = "fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="0cJ-qp-oAY.placeholder">
+        <source>Restaurant Location</source>
+        <note>Class = "UITextField"; placeholder = "Restaurant Location"; ObjectID = "0cJ-qp-oAY";</note>
+      </trans-unit>
+      <trans-unit id="4Cx-to-OKP.text">
+        <source>Name</source>
+        <note>Class = "UILabel"; text = "Name"; ObjectID = "4Cx-to-OKP";</note>
+      </trans-unit>
+      <trans-unit id="4Vf-l4-q9o.title">
+        <source>About</source>
+        <note>Class = "UINavigationController"; title = "About"; ObjectID = "4Vf-l4-q9o";</note>
+      </trans-unit>
+      <trans-unit id="5Y8-Ix-Mii.title">
+        <source>Add Restaurant</source>
+        <note>Class = "UINavigationItem"; title = "Add Restaurant"; ObjectID = "5Y8-Ix-Mii";</note>
+      </trans-unit>
+      <trans-unit id="9CP-Z1-ik1.placeholder">
+        <source>Restaurant Phone Number</source>
+        <note>Class = "UITextField"; placeholder = "Restaurant Phone Number"; ObjectID = "9CP-Z1-ik1";</note>
+      </trans-unit>
+      <trans-unit id="BIz-Ba-6gp.placeholder">
+        <source>Restaurant Type</source>
+        <note>Class = "UITextField"; placeholder = "Restaurant Type"; ObjectID = "BIz-Ba-6gp";</note>
+      </trans-unit>
+      <trans-unit id="BS1-WT-YXJ.text">
+        <source>NAME</source>
+        <note>Class = "UILabel"; text = "NAME"; ObjectID = "BS1-WT-YXJ";</note>
+      </trans-unit>
+      <trans-unit id="BaT-ig-mAT.title">
+        <source>Favorites</source>
+        <note>Class = "UITabBarItem"; title = "Favorites"; ObjectID = "BaT-ig-mAT";</note>
+      </trans-unit>
+      <trans-unit id="CQz-jg-mgj.title">
+        <source>Discover</source>
+        <note>Class = "UITabBarItem"; title = "Discover"; ObjectID = "CQz-jg-mgj";</note>
+      </trans-unit>
+      <trans-unit id="Cav-Lt-5QP.text">
+        <source>TYPE</source>
+        <note>Class = "UILabel"; text = "TYPE"; ObjectID = "Cav-Lt-5QP";</note>
+      </trans-unit>
+      <trans-unit id="Cql-sE-6cD.text">
+        <source>PHONE NUMBER</source>
+        <note>Class = "UILabel"; text = "PHONE NUMBER"; ObjectID = "Cql-sE-6cD";</note>
+      </trans-unit>
+      <trans-unit id="IB2-2f-Ys6.title">
+        <source>Restaurants</source>
+        <note>Class = "UINavigationItem"; title = "Restaurants"; ObjectID = "IB2-2f-Ys6";</note>
+      </trans-unit>
+      <trans-unit id="JMQ-27-zIB.text">
+        <source>Field</source>
+        <note>Class = "UILabel"; text = "Field"; ObjectID = "JMQ-27-zIB";</note>
+      </trans-unit>
+      <trans-unit id="LQn-W3-oZ6.text">
+        <source>Type</source>
+        <note>Class = "UILabel"; text = "Type"; ObjectID = "LQn-W3-oZ6";</note>
+      </trans-unit>
+      <trans-unit id="Rpc-Of-QYH.text">
+        <source>NAME</source>
+        <note>Class = "UILabel"; text = "NAME"; ObjectID = "Rpc-Of-QYH";</note>
+      </trans-unit>
+      <trans-unit id="Wa9-eG-edg.title">
+        <source>Discover</source>
+        <note>Class = "UINavigationController"; title = "Discover"; ObjectID = "Wa9-eG-edg";</note>
+      </trans-unit>
+      <trans-unit id="ZoN-yf-MGd.normalTitle">
+        <source>YES</source>
+        <note>Class = "UIButton"; normalTitle = "YES"; ObjectID = "ZoN-yf-MGd";</note>
+      </trans-unit>
+      <trans-unit id="cWJ-sg-K5W.title">
+        <source>Root View Controller</source>
+        <note>Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "cWJ-sg-K5W";</note>
+      </trans-unit>
+      <trans-unit id="dPV-MO-XVP.text">
+        <source>LOCATION</source>
+        <note>Class = "UILabel"; text = "LOCATION"; ObjectID = "dPV-MO-XVP";</note>
+      </trans-unit>
+      <trans-unit id="dkO-OW-8Ri.text">
+        <source>HAVE YOU BEEN HERE</source>
+        <note>Class = "UILabel"; text = "HAVE YOU BEEN HERE"; ObjectID = "dkO-OW-8Ri";</note>
+      </trans-unit>
+      <trans-unit id="fMM-Gq-MNU.text">
+        <source>Rate this place!</source>
+        <target>Notez cet endroit!</target>
+        <note>Class = "UILabel"; text = "Rate this place!"; ObjectID = "fMM-Gq-MNU";</note>
+      </trans-unit>
+      <trans-unit id="hBv-iY-0JK.text">
+        <source>Value</source>
+        <note>Class = "UILabel"; text = "Value"; ObjectID = "hBv-iY-0JK";</note>
+      </trans-unit>
+      <trans-unit id="q8B-Xf-xq8.text">
+        <source>Just Dev Courses</source>
+        <note>Class = "UILabel"; text = "Just Dev Courses"; ObjectID = "q8B-Xf-xq8";</note>
+      </trans-unit>
+      <trans-unit id="qaF-XU-sjT.placeholder">
+        <source>Restaurant Name</source>
+        <note>Class = "UITextField"; placeholder = "Restaurant Name"; ObjectID = "qaF-XU-sjT";</note>
+      </trans-unit>
+      <trans-unit id="u0S-GF-ICC.normalTitle">
+        <source>NO</source>
+        <note>Class = "UIButton"; normalTitle = "NO"; ObjectID = "u0S-GF-ICC";</note>
+      </trans-unit>
+      <trans-unit id="u3X-TJ-Fbd.text">
+        <source>Location</source>
+        <note>Class = "UILabel"; text = "Location"; ObjectID = "u3X-TJ-Fbd";</note>
+      </trans-unit>
+      <trans-unit id="wNI-36-Tel.title">
+        <source>About</source>
+        <note>Class = "UITabBarItem"; title = "About"; ObjectID = "wNI-36-Tel";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Restaraunts/Info.plist" source-language="en" target-language = "fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Restaraunts/Localizable.strings" source-language="en" target-language = "fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+        <trans-unit id="Been here">
+            <source>Been here</source>
+            <target>été ici</target>
+            <note>Been here field</note>
+        </trans-unit>
+        <trans-unit id="Location">
+            <source>Location</source>
+            <target>Emplacement</target>
+            <note>Location field</note>
+        </trans-unit>
+        <trans-unit id="Name">
+            <source>Name</source>
+            <target>prénom</target>
+            <note>Name field</note>
+        </trans-unit>
+        <trans-unit id="No">
+            <source>No</source>
+            <target>Non</target>
+            <note>No field</note>
+        </trans-unit>
+        <trans-unit id="Phone number">
+            <source>Phone number</source>
+            <target>Numéro de téléphone</target>
+            <note>Phone number field</note>
+        </trans-unit>
+        <trans-unit id="Type">
+            <source>Type</source>
+            <target>Type</target>
+            <note>Type field</note>
+        </trans-unit>
+        <trans-unit id="Yes">
+            <source>Yes</source>
+            <target>Oui</target>
+            <note>Yes field</note>
+        </trans-unit>
+    </body></file>
+</xliff>
